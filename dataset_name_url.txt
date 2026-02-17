@@ -1,0 +1,32 @@
+Customer Churn Prediction Business Dataset
+Author: Arif Miah
+
+https://www.kaggle.com/datasets/miadul/customer-churn-prediction-business-dataset
+
+--------------------------------------------------------------------------------------------
+
+🧾 Dataset Characteristics
+
+    Number of records: 10,000 customers
+    Target variable: churn (0 = No, 1 = Yes)
+    Data types: Numerical & Categorical
+    Domain: Subscription / SaaS / Telecom / Service Business
+
+* Data source: Synthetic (business-logic driven)
+
+📊 Feature Categories
+
+    Customer Profile: age, gender, location, tenure, contract type
+    Product Usage: logins, session duration, feature usage, activity trends
+    Billing & Payment: subscription fees, revenue, payment failures, discounts
+    Customer Support: tickets, resolution time, CSAT, complaints
+
+* Engagement & Feedback: email activity, NPS score, survey responses
+
+🎯 Use Cases
+
+    Predict high-risk churn customers
+    Identify key churn drivers
+    Estimate revenue at risk
+    Build retention strategies
+    Train and evaluate ML/DL models
